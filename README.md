@@ -32,6 +32,10 @@ The dataset includes transactional and business-related sales data such as:
 
 6. Profit
 
+7. Region / Location
+
+8. Discount
+
 # Tools & Technologies
 
 1. Power BI – Data visualization & dashboard design
@@ -42,6 +46,4 @@ The dataset includes transactional and business-related sales data such as:
 
 4. Excel / CSV Dataset – Data source
 
-Region / Location
 
-Discount
